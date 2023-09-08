@@ -4,4 +4,4 @@ Here, I will be uploading what I have learnt in Data Science through various sou
 The topics I have learnt till now are:
 - Numpy
 * Pandas
-* Matplotlib
++ Matplotlib
