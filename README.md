@@ -7,3 +7,4 @@ The topics I have learnt till now are:
 * Pandas
 + Matplotlib
 - Data preprocessing
+* Linear Regression
