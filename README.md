@@ -12,3 +12,6 @@ The topics I have learnt till now are:
 - Multi Linear Regression - Ridge Regression
 - Multi Linear Regression - Lasso Regression
 - Logistic Regression
+- Decision Trees
+- Random Forest
+- Naive - Bayes Algorithm
