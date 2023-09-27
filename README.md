@@ -11,3 +11,4 @@ The topics I have learnt till now are:
 - Multi Linear Regression
 - Multi Linear Regression - Ridge Regression
 - Multi Linear Regression - Lasso Regression
+- Logistic Regression
