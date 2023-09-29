@@ -15,3 +15,4 @@ The topics I have learnt till now are:
 - Decision Trees
 - Random Forest
 - Naive - Bayes Algorithm
+- Support Vector Classifier (SVM)
