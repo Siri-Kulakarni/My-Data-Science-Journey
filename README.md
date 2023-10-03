@@ -16,3 +16,4 @@ The topics I have learnt till now are:
 - Random Forest
 - Naive - Bayes Algorithm
 - Support Vector Classifier (SVM)
+- K - means Clustering
