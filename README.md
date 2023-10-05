@@ -17,3 +17,4 @@ The topics I have learnt till now are:
 - Naive - Bayes Algorithm
 - Support Vector Classifier (SVM)
 - K - means Clustering
+- Artificial Neural Network
